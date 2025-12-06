@@ -20,6 +20,7 @@ class Employee{
         static void getCount(void){
             cout<<"The value of count is "<<count<<endl;
         }
+        // static functions have access of only other static variables and static functions
 
 };
 
